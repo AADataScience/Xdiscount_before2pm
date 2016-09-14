@@ -6,3 +6,5 @@ We decided to increase the traffic before 2pm by introducing a discount on every
 
 1) 50£ discount introduced before 2pm (18th July - 15th Aug)
 2) 70£ discount introduced before 2pm (19th Aug - 8th Sept)
+
+We sa that the last 70£ increases slightly Sales and alot Clicks, so CTS will probably drop
